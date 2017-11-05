@@ -1,5 +1,6 @@
 title: Tim Wolock
 description: Quantitative researcher in Seattle
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
