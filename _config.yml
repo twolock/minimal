@@ -1,6 +1,26 @@
 title: Tim Wolock
+
 description: Quantitative researcher in Seattle
+
 show_downloads: false
+
 google_analytics:
+
 theme: jekyll-theme-minimal
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxQAAAAJDA5MzEyY2FkLTliMTEtNDJmNi04Yzk5LTI5MTZmMWJlYjU2YQ.jpg
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: twolock
+  instagram:
+  linkedin: tim-wolock-59ba515a
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
